@@ -1,2 +1,10 @@
-# Dice-Rolling-Game
-🎲 A simple Python Dice Rolling Game using random module. Users can roll a dice, get random numbers from 1 to 6, and roll again if they get 6. Beginner-friendly console game
+# 🎲 Dice Rolling Game (Python)
+
+A simple and fun **Dice Rolling Game** built using Python.  
+This project is perfect for beginners who want to practice loops, conditions, and the `random` module.
+
+---
+
+## 📌 Features
+- Roll a dice with numbers from **1 to 6**
+- If you roll **6**, you get a chance to roll again
